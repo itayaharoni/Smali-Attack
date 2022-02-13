@@ -1,0 +1,21 @@
+Os: Linux
+Contacts:
+	Name: Dan
+	Phone Number: 0543168231
+	Name: Erel
+	Phone Number: 0509012901
+	Name: Adam
+	Phone Number: 0586785913
+Device info:
+	SDK: 30
+	Brand: Android
+	Fingerprint: Android/sdk_phone_x86/generic_x86:11/RSR1.210210.001.A1/7193139:userdebug/dev-keys
+	Host: abfarm-east4-071
+	ID: RSR1.210210.001.A1
+	Model: Android SDK built for x86
+	Serial: unknown
+	User: android-build
+	Type: userdebug
+	Manufacturer: abfarm-east4-071
+	abfarm-east4-071
+	Android ID: 33f7709240b6a869
